@@ -1,7 +1,6 @@
-import {CheckBox,  CheckBoxComponent } from '@react-native-community/checkbox';
-import { StatusBar } from 'expo-status-bar';
+
 import { StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
-import { TouchableNativeFeedbackComponent } from 'react-native';
+
 
 export default function PageRegistrar({navigation}){
     return(
